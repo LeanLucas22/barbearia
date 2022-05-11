@@ -1,0 +1,310 @@
+img.logo-img{
+    width: 50% ;
+    width:50% ;
+}
+.home,.agendamento,.sobre_nos,.servico{
+    
+    color: #ffff
+}
+.dark{
+    background-color: black;
+}
+.h1,p{
+    color: #ffff;
+}
+.flx{
+    background-color: black;
+}
+.txt{
+    padding:1rem ;
+    text-align: justify;
+    color: black;
+    
+}
+.txt_tel{
+    padding: 2rem;
+}
+.hrs{
+padding: 2rem;
+}
+.aqui{
+    padding: 3rem;
+    
+}
+b{
+    padding: 2rem;
+    left: 8px;
+}
+.container02{
+    padding: 2rem;
+    
+}
+
+p{
+    color: black;
+}
+.line{
+    width: 150px;
+    background-color: black;
+    border-width: 0.3px;
+    border-color: black;
+}
+.galeria{
+    
+    top: 50%;
+    left: 50%;
+    margin-top: 50px;
+    margin-left: 620px;
+    font-size: 35px;
+}
+.line{
+    width: 65px;
+    background-color: #000;
+    border-width: 1.2;
+}
+.photo6{
+    width: 500px ;
+    height: 500px;
+}
+.photo5{
+    height: 500px;
+    width: 600px;
+}
+.photo3{
+    height: 500px;
+    width: 600px;
+}
+.photo1{
+    height: 500px;
+    width: 500px;
+}
+.photo4{
+    height: 500px;
+    width: 500px;   
+}
+.photo7,.photo9{
+    height: 500px;
+    width: 500px;
+}
+.photo8{
+    width: 500px;
+    height: 500px;
+}
+.photo10{
+    width: 500px;
+    height: 500px;
+}
+#next{
+    color: #ffff;
+    width: 15px;
+    height: 12px;
+}
+.barbeiro{
+    width: 500px;
+    height: 500px;
+}
+.img1{
+    left: 82%;
+}
+.titulo{
+    color: white;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    font-size: 28px;
+    
+    
+}
+.meio{
+    padding: 2rem;
+    background-color: black;
+    height: 500px;
+    
+}
+.pe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100px;
+    height:180px;
+    margin:auto;
+    font-size: 25;
+    
+    font-family:Arial;
+    color:#fff; 
+}
+
+.line5{
+    width: 100%;
+    background-color: #000;
+    border-width: 1.2;
+    
+    
+    /* align-items: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    align-self: center;
+    text-align: center; */
+    
+}
+.sobre{
+    color: #fff;
+    justify-items: center;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+
+}
+.meio{
+    width: 100%;
+    height: 100%;
+}
+.p3{
+    color: #fff;
+    justify-content: right;
+}
+
+.divp3{
+    text-align: left;
+    justify-items: left;
+    display: flex;
+
+    
+}
+.pai{
+    color: #fff;
+    display: flex;
+    width: 100%;
+}
+.line_vertical1{
+    
+    border-left: 2px solid white;
+    border-right: none;
+    border-top: none;
+    padding-left: 2rem;
+    height: 400px;
+    justify-items: center;
+    
+}
+.div3{
+    text-align: justify;
+    width: 100%;
+    padding: 2rem;
+
+}
+.div4   {
+    width: 100%;
+}
+.barba{
+    
+	left:100%;
+    width: 500px;
+    height: 400px;
+	float: initial; 
+}   
+.botão1{
+    background: #114f73;
+    color: white;
+    border-style: outset;
+    height: 60px;
+    width: 221px;
+    font: bold 15px arial,sans-serif;
+    text-shadow: none;
+}
+.meio2{
+    width: 100%;
+    height: 100%;
+    background:rgb(205, 214, 222);
+    padding: 2rem;
+    text-align: center ;
+    font-size: 22px;
+
+}
+.baixo{
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    justify-items: left;
+    display: flex;
+    background: rgb(205, 214, 222);
+    color: #000;
+    padding: 2rem;
+    text-align: center;
+    font-size: 22px;
+}
+
+.div_video{
+    display: grid;
+    place-items: center;
+}
+.name{
+    text-align: justify;
+    text-align: center;
+    font-size: 25px;
+}
+.video_baixo{
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+.pzao{
+    text-align: justify;
+    width: 34.2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+.pzao2{
+    width: 37%;
+    text-align: justify;
+}
+.line_vertical2{
+    width: 38%;
+    height: -6%;
+    color: #000;
+    border-style: solid;
+    border-top-width: 3px;
+    border-color: #000;
+
+}
+.cards1{
+    background: #000;
+    padding: 3rem;
+    width: 100%;
+    height: 100%;
+}
+.pzao3{
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+}
+#barbeiro2{
+
+    color: #000;
+    text-align: center;
+}
+#barbeiro3{
+
+    color: #000;
+    text-align: center;
+}
+#barbeiro4{
+    color: #000;
+    text-align: center;
+}
+.Class_photo{
+    display: flex;
+}
+.nome_barber1,.nome_barber2,.nome_barber3{
+    text-align: center;
+    font-size: 20px;
+    font-family: fantasy;
+
+
+}
+.profissão1,.profissão2,.profissão3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
